@@ -1,0 +1,54 @@
+h2 {
+    text-align: center;
+    padding: 20px 0px
+}
+
+.table {
+    padding: 0px 10px
+}
+
+.newTodo {
+    margin: auto;
+    display: block;
+    background-color: aquamarine;
+    color: currentColor;
+    border-color: burlywood
+}
+
+.spinner {
+    margin: auto;
+    display: block
+}
+
+.invalid {
+    color: red;
+    background-color: mistyrose;
+    font-variant: all-petite-caps;
+    margin: auto;
+    display: block
+}
+
+.addButton {
+    width: 40%;
+    background-color: darkseagreen;
+    position: absolute;
+    left: 15px;
+}
+
+.success {
+    width: 15%;
+    height: 15%;
+    margin: auto;
+    display: block
+}
+
+.successMsg {
+    text-align: center;
+    color: forestgreen
+}
+
+.card {
+    background-color: aquamarine;
+    border: 3px solid antiquewhite;
+    padding: 20px
+}
